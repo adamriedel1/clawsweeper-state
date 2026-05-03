@@ -2,10 +2,10 @@
   "schema_version": 1,
   "slug": "openclaw-clawsweeper",
   "display_name": "ClawSweeper",
-  "target_repo": "openclaw/clawsweeper",
+  "target_repo": "adamriedel1/clawsweeper",
   "state": "Audit finished",
-  "detail": "Reconciled durable openclaw/clawsweeper records before audit: moved 0 closed records, restored 0 reopened records, removed 0 stale archived copies. Refreshed audit state from a full live scan.",
-  "run_url": "https://github.com/openclaw/clawsweeper/actions/runs/25287348887",
+  "detail": "Reconciled durable adamriedel1/clawsweeper records before audit: moved 0 closed records, restored 0 reopened records, removed 0 stale archived copies. Refreshed audit state from a full live scan.",
+  "run_url": "https://github.com/adamriedel1/clawsweeper/actions/runs/25289531376",
   "planned_count": null,
   "planned_capacity": null,
   "planned_shards": null,
@@ -13,5 +13,5 @@
   "due_backlog": null,
   "oldest_unreviewed_at": null,
   "capacity_reason": null,
-  "updated_at": "2026-05-03T18:36:01.930Z"
+  "updated_at": "2026-05-03T20:09:41.746Z"
 }
