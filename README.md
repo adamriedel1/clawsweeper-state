@@ -4,16 +4,16 @@ Generated from the durable state branch for [openclaw/clawsweeper](https://githu
 
 ## Sweep Dashboard
 
-Last source update: May 3, 2026, 20:09 UTC
+Last source update: May 3, 2026, 20:33 UTC
 
 ### Fleet
 
 | Metric | Count |
 | --- | ---: |
 | Covered repositories | 3 |
-| Open review records | 6894 |
+| Open review records | 6895 |
 | Archived closed records | 17628 |
-| Fresh reviews, 7d | 6801 |
+| Fresh reviews, 7d | 6802 |
 | Proposed closes awaiting apply | 0 |
 | Work candidates awaiting promotion | 2790 |
 | Failed or stale reviews | 103 |
@@ -22,9 +22,9 @@ Last source update: May 3, 2026, 20:09 UTC
 
 | Repository | State | Updated | Run |
 | --- | --- | --- | --- |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | Hot intake publish complete | May 3, 2026, 19:50 UTC | [run](https://github.com/openclaw/clawsweeper/actions/runs/25288919196) |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | Review in progress | May 3, 2026, 20:33 UTC | [run](https://github.com/adamriedel1/clawsweeper/actions/runs/25290064484) |
 | [openclaw/clawhub](https://github.com/openclaw/clawhub) | Apply finished | May 3, 2026, 19:46 UTC | [run](https://github.com/openclaw/clawsweeper/actions/runs/25288994242) |
-| [openclaw/clawsweeper](https://github.com/openclaw/clawsweeper) | Audit finished | May 3, 2026, 20:09 UTC | [run](https://github.com/adamriedel1/clawsweeper/actions/runs/25289531376) |
+| [openclaw/clawsweeper](https://github.com/openclaw/clawsweeper) | Immediate apply checked | May 3, 2026, 20:30 UTC | [run](https://github.com/adamriedel1/clawsweeper/actions/runs/25289901368) |
 
 ### Repositories
 
@@ -32,7 +32,7 @@ Last source update: May 3, 2026, 20:09 UTC
 | --- | ---: | ---: | ---: | ---: | ---: | ---: | --- | --- |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | 6670 | 16873 | 6577 | 0 | 2768 | 103 | May 3, 2026, 19:51 UTC | May 3, 2026, 19:51 UTC |
 | [openclaw/clawhub](https://github.com/openclaw/clawhub) | 223 | 750 | 223 | 0 | 21 | 0 | May 3, 2026, 19:44 UTC | May 3, 2026, 17:23 UTC |
-| [openclaw/clawsweeper](https://github.com/openclaw/clawsweeper) | 1 | 5 | 1 | 0 | 1 | 0 | May 2, 2026, 06:33 UTC | May 1, 2026, 02:07 UTC |
+| [openclaw/clawsweeper](https://github.com/openclaw/clawsweeper) | 2 | 5 | 2 | 0 | 1 | 0 | May 3, 2026, 20:28 UTC | May 1, 2026, 02:07 UTC |
 
 ### Work Candidates
 
@@ -84,6 +84,7 @@ Last source update: May 3, 2026, 20:09 UTC
 
 | Repository | Item | Title | Outcome | Status | Reviewed |
 | --- | --- | --- | --- | --- | --- |
+| [adamriedel1/clawsweeper](https://github.com/adamriedel1/clawsweeper) | [#1](https://github.com/adamriedel1/clawsweeper/issues/1) | ClawSweeper smoke test | keep_open / kept_open | complete | May 3, 2026, 20:28 UTC |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#76895](https://github.com/openclaw/openclaw/pull/76895) | perf(core): trim channel RTT hot paths | keep_open / kept_open | complete | May 3, 2026, 19:51 UTC |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#75581](https://github.com/openclaw/openclaw/pull/75581) | [plugin sdk] Add host-mediated session attachments | keep_open / kept_open | complete | May 3, 2026, 19:50 UTC |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#76908](https://github.com/openclaw/openclaw/pull/76908) | fix(media): skip fsync on EPERM to allow .docx uploads on Windows (#76844) | keep_open / kept_open | complete | May 3, 2026, 19:50 UTC |
@@ -98,7 +99,6 @@ Last source update: May 3, 2026, 20:09 UTC
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#74850](https://github.com/openclaw/openclaw/pull/74850) | fix(openai): normalize responses replay tool ids | keep_open / kept_open | complete | May 3, 2026, 19:46 UTC |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#76703](https://github.com/openclaw/openclaw/issues/76703) | Bug: Assistant response delivered to Discord but not persisted to session file | keep_open / kept_open | complete | May 3, 2026, 19:46 UTC |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#76729](https://github.com/openclaw/openclaw/issues/76729) | Feishu replies disappear from webchat after compaction rotation (buildSuccessorEntries drops assistant mess... | keep_open / kept_open | complete | May 3, 2026, 19:46 UTC |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#76759](https://github.com/openclaw/openclaw/issues/76759) | [Feature]: export StatusSummary and ModelCatalogEntry types from plugin-sdk public surface | keep_open / kept_open | complete | May 3, 2026, 19:46 UTC |
 
 </details>
 
