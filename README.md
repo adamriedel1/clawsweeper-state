@@ -4,27 +4,27 @@ Generated from the durable state branch for [openclaw/clawsweeper](https://githu
 
 ## Sweep Dashboard
 
-Last source update: May 3, 2026, 20:33 UTC
+Last source update: May 3, 2026, 21:14 UTC
 
 ### Fleet
 
 | Metric | Count |
 | --- | ---: |
 | Covered repositories | 3 |
-| Open review records | 6895 |
+| Open review records | 6896 |
 | Archived closed records | 17628 |
-| Fresh reviews, 7d | 6802 |
+| Fresh reviews, 7d | 6803 |
 | Proposed closes awaiting apply | 0 |
-| Work candidates awaiting promotion | 2790 |
+| Work candidates awaiting promotion | 2791 |
 | Failed or stale reviews | 103 |
 
 ### Current Runs
 
 | Repository | State | Updated | Run |
 | --- | --- | --- | --- |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | Review in progress | May 3, 2026, 20:33 UTC | [run](https://github.com/adamriedel1/clawsweeper/actions/runs/25290064484) |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | Review in progress | May 3, 2026, 20:58 UTC | [run](https://github.com/adamriedel1/clawsweeper/actions/runs/25290611922) |
 | [openclaw/clawhub](https://github.com/openclaw/clawhub) | Apply finished | May 3, 2026, 19:46 UTC | [run](https://github.com/openclaw/clawsweeper/actions/runs/25288994242) |
-| [openclaw/clawsweeper](https://github.com/openclaw/clawsweeper) | Immediate apply checked | May 3, 2026, 20:30 UTC | [run](https://github.com/adamriedel1/clawsweeper/actions/runs/25289901368) |
+| [openclaw/clawsweeper](https://github.com/openclaw/clawsweeper) | Apply finished | May 3, 2026, 21:14 UTC | [run](https://github.com/adamriedel1/clawsweeper/actions/runs/25290974724) |
 
 ### Repositories
 
@@ -32,12 +32,13 @@ Last source update: May 3, 2026, 20:33 UTC
 | --- | ---: | ---: | ---: | ---: | ---: | ---: | --- | --- |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | 6670 | 16873 | 6577 | 0 | 2768 | 103 | May 3, 2026, 19:51 UTC | May 3, 2026, 19:51 UTC |
 | [openclaw/clawhub](https://github.com/openclaw/clawhub) | 223 | 750 | 223 | 0 | 21 | 0 | May 3, 2026, 19:44 UTC | May 3, 2026, 17:23 UTC |
-| [openclaw/clawsweeper](https://github.com/openclaw/clawsweeper) | 2 | 5 | 2 | 0 | 1 | 0 | May 3, 2026, 20:28 UTC | May 1, 2026, 02:07 UTC |
+| [openclaw/clawsweeper](https://github.com/openclaw/clawsweeper) | 3 | 5 | 3 | 0 | 2 | 0 | May 3, 2026, 21:00 UTC | May 1, 2026, 02:07 UTC |
 
 ### Work Candidates
 
 | Repository | Item | Title | Priority | Reviewed | Report |
 | --- | --- | --- | --- | --- | --- |
+| [adamriedel1/clawsweeper](https://github.com/adamriedel1/clawsweeper) | [#2](https://github.com/adamriedel1/clawsweeper/issues/2) | ClawSweeper comment update smoke test | high | May 3, 2026, 20:48 UTC | [records/openclaw-clawsweeper/items/2.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-clawsweeper/items/2.md) |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#76895](https://github.com/openclaw/openclaw/pull/76895) | perf(core): trim channel RTT hot paths | high | May 3, 2026, 19:51 UTC | [records/openclaw-openclaw/items/76895.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-openclaw/items/76895.md) |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#76820](https://github.com/openclaw/openclaw/pull/76820) | fix: prevent duplicate message replay on compaction retry in Telegram sessions | high | May 3, 2026, 19:47 UTC | [records/openclaw-openclaw/items/76820.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-openclaw/items/76820.md) |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#76703](https://github.com/openclaw/openclaw/issues/76703) | Bug: Assistant response delivered to Discord but not persisted to session file | high | May 3, 2026, 19:46 UTC | [records/openclaw-openclaw/items/76703.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-openclaw/items/76703.md) |
@@ -57,7 +58,6 @@ Last source update: May 3, 2026, 20:33 UTC
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#75657](https://github.com/openclaw/openclaw/issues/75657) | fix: local GGUF embedding model warmup blocks Node.js event loop for minutes on startup (ARM64/Pi) | high | May 3, 2026, 19:27 UTC | [records/openclaw-openclaw/items/75657.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-openclaw/items/75657.md) |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#76700](https://github.com/openclaw/openclaw/issues/76700) | [Bug]: Brave plugin install + tools.web.search.provider: "brave" causes 1.2s crash loop with no CLI escape... | high | May 3, 2026, 19:26 UTC | [records/openclaw-openclaw/items/76700.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-openclaw/items/76700.md) |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#40207](https://github.com/openclaw/openclaw/issues/40207) | [Bug]: Gateway LaunchAgent crashes with EX_CONFIG when StandardOutPath targets ~/.openclaw/logs (symlinked/... | high | May 3, 2026, 19:26 UTC | [records/openclaw-openclaw/items/40207.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-openclaw/items/40207.md) |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#76870](https://github.com/openclaw/openclaw/pull/76870) | fix(openai-codex): retry on IPv4 when IPv6 egress fails | high | May 3, 2026, 19:26 UTC | [records/openclaw-openclaw/items/76870.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-openclaw/items/76870.md) |
 
 ### Recently Closed
 
@@ -84,7 +84,8 @@ Last source update: May 3, 2026, 20:33 UTC
 
 | Repository | Item | Title | Outcome | Status | Reviewed |
 | --- | --- | --- | --- | --- | --- |
-| [adamriedel1/clawsweeper](https://github.com/adamriedel1/clawsweeper) | [#1](https://github.com/adamriedel1/clawsweeper/issues/1) | ClawSweeper smoke test | keep_open / kept_open | complete | May 3, 2026, 20:28 UTC |
+| [adamriedel1/clawsweeper](https://github.com/adamriedel1/clawsweeper) | [#1](https://github.com/adamriedel1/clawsweeper/issues/1) | ClawSweeper smoke test | keep_open / skipped_comment_auth | complete | May 3, 2026, 21:00 UTC |
+| [adamriedel1/clawsweeper](https://github.com/adamriedel1/clawsweeper) | [#2](https://github.com/adamriedel1/clawsweeper/issues/2) | ClawSweeper comment update smoke test | keep_open / kept_open | complete | May 3, 2026, 20:48 UTC |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#76895](https://github.com/openclaw/openclaw/pull/76895) | perf(core): trim channel RTT hot paths | keep_open / kept_open | complete | May 3, 2026, 19:51 UTC |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#75581](https://github.com/openclaw/openclaw/pull/75581) | [plugin sdk] Add host-mediated session attachments | keep_open / kept_open | complete | May 3, 2026, 19:50 UTC |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#76908](https://github.com/openclaw/openclaw/pull/76908) | fix(media): skip fsync on EPERM to allow .docx uploads on Windows (#76844) | keep_open / kept_open | complete | May 3, 2026, 19:50 UTC |
@@ -98,7 +99,6 @@ Last source update: May 3, 2026, 20:33 UTC
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#76787](https://github.com/openclaw/openclaw/issues/76787) | Feature: resolve t.me/c/ message links in Telegram context | keep_open / kept_open | complete | May 3, 2026, 19:47 UTC |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#74850](https://github.com/openclaw/openclaw/pull/74850) | fix(openai): normalize responses replay tool ids | keep_open / kept_open | complete | May 3, 2026, 19:46 UTC |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#76703](https://github.com/openclaw/openclaw/issues/76703) | Bug: Assistant response delivered to Discord but not persisted to session file | keep_open / kept_open | complete | May 3, 2026, 19:46 UTC |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#76729](https://github.com/openclaw/openclaw/issues/76729) | Feishu replies disappear from webchat after compaction rotation (buildSuccessorEntries drops assistant mess... | keep_open / kept_open | complete | May 3, 2026, 19:46 UTC |
 
 </details>
 
